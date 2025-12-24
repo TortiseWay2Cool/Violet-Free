@@ -1,0 +1,27 @@
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\Violet Free.csproj.AssemblyReference.cache
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\Violet Free.IgnoresAccessChecksTo.cs
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\Violet Free.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\Violet Free.AssemblyInfoInputs.cache
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\Violet Free.AssemblyInfo.cs
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\Violet Free.csproj.CoreCompileInputs.cache
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\VioletTemplate.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\VioletTemplate.pdb
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\VioletTemplate.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\VioletTemplate.pdb
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\AsmResolver.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\AsmResolver.DotNet.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\AsmResolver.PE.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\AsmResolver.PE.File.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\BepInEx.AssemblyPublicizer.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\BepInEx.AssemblyPublicizer.MSBuild.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\Newtonsoft.Json.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.Buffers.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.Memory.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.Numerics.Vectors.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.Text.Encodings.Web.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.Text.Json.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.Threading.Tasks.Extensions.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\bin\Debug\net481\System.ValueTuple.dll
+C:\Users\gradd\OneDrive\Desktop\Violet Free\VioletTemplate\obj\Debug\net481\Violet F.44B95773.Up2Date
